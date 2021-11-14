@@ -1,9 +1,9 @@
 {
   "name": "Tip Manager",
   "version": "1.0.0",
-  "description": "Master demo",
+  "description": "demo",
   "main": "./dist/server.js",
-  "repository": "https://github.com/Prakhar86/mastersDemo",
+  "repository": "https://github.com/Prakhar86/Tip-Manager",
   "author": "Prakhar Agrawal <prakhar.ag76@gmail.com>",
   "license": "MIT",
   "scripts": {
