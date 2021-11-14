@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "sa",
+    "password": "Welcome10",
+    "database": "tip_Manager",
+    "host": "127.0.0.1",
+    "dialect": "mssql",
+    "seederStorage": "sequelize"
+  }
+}
